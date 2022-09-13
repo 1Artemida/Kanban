@@ -1,0 +1,11 @@
+.header-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #abb3b9;
+}
