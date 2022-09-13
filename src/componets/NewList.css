@@ -1,0 +1,29 @@
+.new-list-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 260px;
+}
+
+.new-list-input {
+    display: flex;
+    width: 170px;
+    height: 30px;
+    align-items: center;
+    margin: 10px;
+}
+
+.new-list-control {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.button-create {
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+}
